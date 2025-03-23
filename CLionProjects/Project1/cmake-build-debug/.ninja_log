@@ -1,0 +1,8 @@
+# ninja log v6
+205	419	7635786777354107	Project1.exe	a34bc31acfc5c495
+10	120	7635786775392455	CMakeFiles/Project1.dir/main.c.obj	f3cf395460495784
+59	309	7633414166595497	CMakeFiles/Project1.dir/Repository.c.obj	70ceda139e931339
+20	199	7635786775505479	CMakeFiles/Project1.dir/Controller.c.obj	ea57c1d17ab48871
+12	140	7635727940182459	CMakeFiles/Project1.dir/Cheltuiala.c.obj	a7b33ccea69063d8
+93	757	7641845258659498	build.ninja	dc8aa377d5e4344
+30	179	7635786775604691	CMakeFiles/Project1.dir/UI.c.obj	7b8f558af781b256

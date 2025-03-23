@@ -1,0 +1,1 @@
+/usr/bin/cc --coverage -O0 -g -Wall -Wextra -g CMakeFiles/Project1.dir/main.c.o CMakeFiles/Project1.dir/Cheltuiala.c.o CMakeFiles/Project1.dir/Controller.c.o CMakeFiles/Project1.dir/UI.c.o -o Project1 
